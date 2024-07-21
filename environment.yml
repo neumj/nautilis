@@ -1,0 +1,12 @@
+name: mkdocs
+channels:
+  - anaconda
+  - conda-forge
+  - programfan
+dependencies:
+  - python>3.7
+  - mkdocs-material
+  - mkdocs-material-extensions
+  - mkdocs-git-revision-date-localized-plugin
+  - mkdocs-with-pdf
+  - weasyprint

@@ -1,0 +1,73 @@
+site_name: Nautilis
+repo_name: neumj/nautilis
+repo_url: https://github.com/neumj/nautilis
+copyright: Copyright &copy; 2024 - Neumann
+    
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: amber
+      toggle:
+        icon: material/weather-night 
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  logo: assets/nuclear-symbol-icon.png
+  favicon: assets/nuclear-symbol-icon.png
+  features:
+    - content.tabs.link
+    - navigation.footer
+    - search.highlight
+
+markdown_extensions:
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+plugins:
+  - search
+  - tags:
+      tags_file: tags.md
+  - git-revision-date-localized:
+      type: datetime
+      timezone: America/New_York
+  - with-pdf:
+      author: Neumann
+      cover: true
+      back_cover: false
+      cover_title: Nautilis
+      cover_subtitle: Neumann Dive Logs
+
+extra:
+  generator: false
+
+nav:
+    - Home: index.md
+    - Components:
+      - Power Supply: power-supply.md
+      - Motherboard: motherboard.md
+      - Central Processing Unit: cpu.md
+      - Random Access Memory: ram.md
+      - Storage: storage.md
+      - Graphics Processing Unit: gpu.md
+      - Case: case.md
+    - Entries by Tags: tags.md
