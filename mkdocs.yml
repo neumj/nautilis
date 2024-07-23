@@ -10,18 +10,18 @@ theme:
   palette:
     # Palette toggle for light mode
     - scheme: default
-      primary: amber
+      primary: teal
       toggle:
         icon: material/weather-night 
         name: Switch to dark mode
     # Palette toggle for dark mode
     - scheme: slate
-      primary: amber
+      primary: teal
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-  logo: assets/nuclear-symbol-icon.png
-  favicon: assets/nuclear-symbol-icon.png
+  logo: assets/diver.png
+  favicon: assets/diver.png
   features:
     - content.tabs.link
     - navigation.footer
@@ -49,7 +49,7 @@ plugins:
       tags_file: tags.md
   - git-revision-date-localized:
       type: datetime
-      timezone: America/New_York
+      timezone: America/Los_Angeles
   - with-pdf:
       author: Neumann
       cover: true
@@ -62,12 +62,7 @@ extra:
 
 nav:
     - Home: index.md
-    - Components:
-      - Power Supply: power-supply.md
-      - Motherboard: motherboard.md
-      - Central Processing Unit: cpu.md
-      - Random Access Memory: ram.md
-      - Storage: storage.md
-      - Graphics Processing Unit: gpu.md
-      - Case: case.md
+    - MJN:
+      - Dive 130 - Hen Rock Cove: mjn/130-hen-rock.md
+      - Dive 106 - Long Point: mjn/106-long-point.md
     - Entries by Tags: tags.md
