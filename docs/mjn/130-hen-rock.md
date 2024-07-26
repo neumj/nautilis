@@ -10,7 +10,8 @@ tags:
 #### Longitude: 118°22'08.2"W
 #### Dive Number: 130
 #### Overview
-##### Type: Ocean, Boat Dive
+##### Type: Ocean, Boat Dive (Mistiki)
+##### Partner: Tobias N.
 
 Search and recovery dive for weight pocket and metal hauser that broke off of S/V Starship. Zero visibility and strong surge/ current. Aborted dive.
 
@@ -24,7 +25,7 @@ Search and recovery dive for weight pocket and metal hauser that broke off of S/
 | Starting Pressure: | 200 bar | 
 | Ending Pressure:   | 190 bar | 
 
-#### Conditions 
+#### Conditions
 
 | | |
 |-----|-----|
@@ -36,3 +37,11 @@ Search and recovery dive for weight pocket and metal hauser that broke off of S/
 | Air Temperature:     | 21°C | 
 | Surface Temperature: | 21°C | 
 | Bottom Temperature:  | 20°C | 
+
+#### Eqipment 
+
+| | |
+|-----|-----|
+| Tank:    | Aluminum 80 |
+| Weight:  | 24 lbs | 
+| Wetsuit: | Farmer John, Spring Shorty, Booties | 
