@@ -44,4 +44,4 @@ Good dive. Entered at Pirates Cove in sandy bottom and moved NE to the rocky agg
 |-----|-----|
 | Tank:    | Aluminum 80 |
 | Weight:  | 22 lbs | 
-| Wetsuit: | Farmer John, Spring Shorty, Booties, Hood | 
+| Wetsuit: | Farmer John, Spring Shorty, Booties, Gloves | 

@@ -11,7 +11,7 @@ tags:
 #### Dive Number: 130
 #### Overview
 ##### Type: Ocean, Boat Dive (Mistiki)
-##### Partner: Tobias N.
+##### Partner: None
 
 Search and recovery dive for weight pocket and metal hauser that broke off of S/V Starship. Zero visibility and strong surge/ current. Aborted dive.
 
