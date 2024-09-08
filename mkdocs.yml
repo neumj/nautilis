@@ -63,6 +63,8 @@ extra:
 nav:
     - Home: index.md
     - MJN:
+      - Dive 134 - Hen Rock Reef: mjn/134-hen-rock-reef.md
+      - Dive 133 - Long Point: mjn/133-long-point.md
       - Dive 132 - 4th of July Cove: mjn/132-4th-july-cove.md
       - Dive 131 - Hen Rock Reef: mjn/131-hen-rock-reef.md
       - Dive 130 - Hen Rock Cove: mjn/130-hen-rock.md
